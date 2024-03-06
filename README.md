@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **BS Software Engineering**
 
-- 🌱 I’m currently learning **Python backend and Automation**
+- 🌱 I’m currently learning **Data Analysis And Visualization**
 
 - 👯 I’m looking to collaborate on **python projects**
 
